@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\PolerasDePrimera\Datos\bin\Debug\Datos.dll
+C:\Users\Administrador\source\repos\PolerasDePrimera\Datos\bin\Debug\Datos.pdb
+C:\Users\Administrador\source\repos\PolerasDePrimera\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\PolerasDePrimera\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\PolerasDePrimera\Datos\obj\Debug\Datos.dll
+C:\Users\Administrador\source\repos\PolerasDePrimera\Datos\obj\Debug\Datos.pdb

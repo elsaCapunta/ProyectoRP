@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolerasDePrimera", "PolerasDePrimera\PolerasDePrimera.csproj", "{1E59E5AA-5B1A-4CE8-A7B6-B8118850EF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{FB14E807-F786-488B-8531-341FDC8D582D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E59E5AA-5B1A-4CE8-A7B6-B8118850EF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E59E5AA-5B1A-4CE8-A7B6-B8118850EF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E59E5AA-5B1A-4CE8-A7B6-B8118850EF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E59E5AA-5B1A-4CE8-A7B6-B8118850EF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB14E807-F786-488B-8531-341FDC8D582D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB14E807-F786-488B-8531-341FDC8D582D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB14E807-F786-488B-8531-341FDC8D582D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB14E807-F786-488B-8531-341FDC8D582D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF33D947-F67C-4379-8CC5-6EB01E2FF294}
+	EndGlobalSection
+EndGlobal
